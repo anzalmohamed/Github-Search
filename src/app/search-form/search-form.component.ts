@@ -7,7 +7,7 @@ import { User } from '../user';
   styleUrls: ['./search-form.component.css']
 })
 export class SearchFormComponent implements OnInit {
-  newUser=new User ("");
+  newUser=new User(1,"","","","",0,0,0,"","")
   @Output() addUser = new EventEmitter<User>();
 
   submitUser(){
