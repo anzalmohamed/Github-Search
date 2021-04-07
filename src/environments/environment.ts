@@ -4,8 +4,9 @@
 
 export const environment = {
   production: false,
-  tokenAcess:'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',
-  apiUrl:'https://api.github.com/'
+  //tokenAcess:'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',
+  ApiKey: 'https://api.github.com/users/',
+  Apirepo: 'https://api.github.com/search/repositories?q='
 };
 
 /*

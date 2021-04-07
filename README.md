@@ -1,27 +1,50 @@
-# GithubSearch
+# GITHUB SEARCH
+## Founder
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+[ANZAL MOHAMED](https://github.com/anzalmohamed)
 
-## Development server
+### Version
+cuurent the only version available is one
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
+The app 'Quotes' lets its user create a quote and preview its details
 
-## Code scaffolding
+## Screenshot
+ <img src="/image/screenshot.png" width="900px" height="440px">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Live Page 
+https://amazing-almeida-af5e7a.netlify.app/
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
 
-## Running unit tests
+* git clone ```https://github.com/anzalmohamed/Quotes.git```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* cd Quotes
 
-## Running end-to-end tests
+* code . or atom . depending on the text editor of your choice.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Technologies Used
+* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5. 
 
-## Further help
+The languages used were;
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* [HTML5](https://github.com/topics/html5)
+* [CSS](https://github.com/topics/css3)
+* [Bootstrap](https://github.com/topics/bootstrap)
+* [Javascript](https://github.com/topics/javascript)
+* [Typescript](https://www.typescriptlang.org/)
+
+
+
+## Known Bugs
+
+* The application does not show how much time has passed since the quote was created . it show a count of 0
+
+## Contact Information 
+
+If you have any question or contributions that would better this app, please email me at [anzaldidah@gmail.com]
+
+## License
+[MIT]() © [Anzal Mohamed](https://github.com/anzalmohamed)
