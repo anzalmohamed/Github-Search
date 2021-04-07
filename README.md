@@ -10,7 +10,7 @@ cuurent the only version available is one
 The app 'Quotes' lets its user create a quote and preview its details
 
 ## Screenshot
- <img src="/image/screenshot.png" width="900px" height="440px">
+ <img src="assets/screenshot.png" width="900px" height="440px">
 
 ## Live Page 
 https://amazing-almeida-af5e7a.netlify.app/
