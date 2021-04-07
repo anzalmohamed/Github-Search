@@ -7,19 +7,19 @@
 cuurent the only version available is one
 
 ## Description
-The app 'Quotes' lets its user create a quote and preview its details
+The app Github-Search lets a user search for their desired repository and user name on github
 
 ## Screenshot
- <img src="assets/screenshot.png" width="900px" height="440px">
+ <img src="/assets/screenshot.png" width="900px" height="440px">
 
 ## Live Page 
-https://amazing-almeida-af5e7a.netlify.app/
 
+https://dreamy-bassi-170fef.netlify.app/
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/anzalmohamed/Quotes.git```
+* git clone ```https://github.com/anzalmohamed/Github-Search.git```
 
 * cd Quotes
 
@@ -40,8 +40,7 @@ The languages used were;
 
 ## Known Bugs
 
-* The application does not show how much time has passed since the quote was created . it show a count of 0
-
+*Their are no bugs on the app currently
 ## Contact Information 
 
 If you have any question or contributions that would better this app, please email me at [anzaldidah@gmail.com]
