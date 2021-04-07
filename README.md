@@ -21,7 +21,7 @@ https://dreamy-bassi-170fef.netlify.app/
 
 * git clone ```https://github.com/anzalmohamed/Github-Search.git```
 
-* cd Quotes
+* cd Github-Search
 
 * code . or atom . depending on the text editor of your choice.
 
