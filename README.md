@@ -7,7 +7,7 @@
 cuurent the only version available is one
 
 ## Description
-The app Github-Search lets a user search for their desired repository and user name on github
+The app Github-Search lets a user search for their desired repository and user name on GitHub
 
 ## Screenshot
  <img src="/src/assets/screenshot.png" width="900px" height="440px">
